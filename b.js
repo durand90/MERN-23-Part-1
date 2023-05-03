@@ -1,5 +1,5 @@
 var beatles = ['Paul', 'George', 'John', 'Ringo'];
-function printName(names) {
+function printNames(names) {
     function actuallyPrintingNames(){
     for (var index = 0; index < names.length; index++) {
         var name = names[index];
