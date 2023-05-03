@@ -4,4 +4,4 @@ let z = 3;
 
 console.log(x + x);
 console.log(y - z);
-console.log(z * x); 
+console.log(z * x); a
